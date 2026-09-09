@@ -24,14 +24,12 @@ PDF Notes → Text Extraction → Chunking → Embeddings → ChromaDB → Quest
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
-
-
+```
 ## 🔑 Setup
-Add your Gemini API key to a `.env` file as `GOOGLE_API_KEY`.
+Add your Gemini API key to a .env file as GOOGLE_API_KEY.
 
-
-Objective
+## Objective
 To provide a simple AI-based assistant that allows students to quickly find answers from their college notes using RAG.
 
-GitHub
+## GitHub
 https://github.com/harish44-1060/college-notes-rag
